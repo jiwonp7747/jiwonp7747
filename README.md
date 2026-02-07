@@ -39,7 +39,7 @@ I'm a backend engineer with a strong interest in cloud-native technologies and K
 
 ### Kubernetes & Cloud Native (CNCF)
 <a href="https://www.credly.com/badges/17695be4-8289-43f4-9dd9-06cc285c82cd/public_url">
-  <img src="https://images.credly.com/images/cd6c43ab-1d19-4d65-80a1-28a9d1a0bbae/image.png" alt="Kubestronaut" width="80"/>
+  <img src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="80"/>
 </a>
 <a href="https://www.credly.com/badges/bcded168-6fc1-4a29-b612-3af2e89b7937/public_url">
   <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" width="80"/>

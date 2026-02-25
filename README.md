@@ -64,7 +64,7 @@ I'm a backend engineer with a strong interest in cloud-native technologies and K
 | Certification | Year |
 |---------------|------|
 | Engineer Information Processing (정보처리기사) | 2025 |
-| SQLD (SQL Developer) | 2023 |
+| SQLD (SQL Developer) | 2024 |
 
 ---
 

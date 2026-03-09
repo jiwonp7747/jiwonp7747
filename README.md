@@ -14,7 +14,7 @@ I'm a backend engineer with a strong interest in cloud-native technologies and K
 
 | Company | Role | Period |
 |---------|------|--------|
-| BISTelligence | Backend Engineer (Intern) | Jul 2025 - Present |
+| BISTelligence | Backend Engineer | Jul 2025 - Present |
 | Mobile App Dev Cooperative | Backend Engineer (Intern) | Dec 2024 - Feb 2025 |
 
 ## Education

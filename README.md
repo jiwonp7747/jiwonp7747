@@ -64,6 +64,7 @@ I'm a backend engineer with a strong interest in cloud-native technologies and K
 | Certification | Year |
 |---------------|------|
 | AWS SAA | 2026 |
+| SW_L5 | 2026 |
 | Engineer Information Processing (정보처리기사) | 2025 |
 | SQLD (SQL Developer) | 2024 |
 
